@@ -14,6 +14,4 @@ public class Department
 
         // Navigation property for employees
         public ICollection<Employee> Employees { get; set; }
-
-        // Other fields...
 }
